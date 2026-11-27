@@ -14,4 +14,4 @@ Entorno de desarrollo
 Arduino IDE y bibliotecas compatibles con ESP32.
 Propósito
 Proporcionar acceso a los programas desarrollados para la implementación y funcionamiento del sistema de alarma digital presentado en la investigación.
-
+*LOS CODIGOS MAC DEBEN REEMPLAZARSE POR LA DE LOS PROPIOS DISPOSITIVOS PARA UN CORRECTO FUNCIONAMIENTO*
