@@ -18,7 +18,7 @@ BluetoothSerial SerialBT;
 XPT2046_Touchscreen ts(TOUCH_CS, TIRQ_PIN);
 
 // MAC del esclavo remoto (anunciador)
-uint8_t slaveAddress[] = {0xC8, 0xC9, 0xA3, 0xC7, 0x98, 0x90}; 
+uint8_t slaveAddress[] = {0xAA, 0xBB, 0xCC, 0xDD, 0xEE, 0xFF}; 
 
 #define X_MIN 570
 #define X_MAX 3784
