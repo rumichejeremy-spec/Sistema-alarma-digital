@@ -13,7 +13,7 @@ LiquidCrystal_I2C lcd(0x27, 20, 4);
 RTC_DS3231 rtc;     
 
 // MAC del maestro
-uint8_t masterAddress[] = {0xD4, 0x8A, 0xFC, 0xCE, 0xB0, 0x84};
+uint8_t masterAddress[] = {0x11, 0x22, 0x33, 0x44, 0x55, 0x66};
 
 // ------------------- ESTRUCTURAS -------------------
 typedef struct {
